@@ -5,7 +5,7 @@ public:
         result.push_back(curr);
         for(int append = 0; append <= 9; append++){
             int newnum = curr * 10 + append;
-            // if(newnum > n) return;
+            if(newnum > n) return;
             solve(newnum, n, result);
         }
     }
