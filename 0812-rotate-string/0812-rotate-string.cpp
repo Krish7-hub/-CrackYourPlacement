@@ -4,7 +4,9 @@ public:
 
         if(s.length() != goal.length()) return false;
 
-        return((s+s).find(goal) != string::npos);
-        
+        for(int i = 0; i < s.length(); i++){
+            if(s.substr(i) + s.substr(0,i) == goal) return true;
+        }
+        return false;
     }
 };
