@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int lengthOfLongestSubstring(string s) {
+    int lengthOfLongestSubstring(string S) {
 
-        int n = s.length();
-        int res = 0;
-        for(int i = 0; i < n; i++){
-            vector<int>visited(256,0);
-            for(int j = i; j < n; j++){
-               if(visited[s[j]] == true){
-                  break;
-               }
-               else{
-                 res = max(res, j-i+1);
-                 visited[s[j]] = true;
-               }
-            }
+      if(S.length() == 0) return 0;
+    if(S.length() == 1) return 1;
+    
+    int left = 0, right = 0;
+    int maxstrlen = 0;
+    vector<int>visited(256,false);
+    
+    while(right < S.length()){
+        while(visited[S[right]] == true){
+            visited[S[left]] = false;
+            left++;
         }
-        return res;
+        visited[S[right]] = true;
+        maxstrlen = max(maxstrlen, right-left+1);
+        right++;
+    }
+    return maxstrlen;
     }
 };
