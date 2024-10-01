@@ -14,6 +14,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
