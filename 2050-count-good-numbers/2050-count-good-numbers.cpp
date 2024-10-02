@@ -7,7 +7,7 @@ public:
             return solve((x*x)%mod, n/2);
         }
         else{
-            return (x*solve(x, n-1))%mod;
+            return (x * solve((x*x)%mod, (n-1)/2))%mod;
         }
     }
     int countGoodNumbers(long long n) {
