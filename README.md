@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -64,6 +65,7 @@
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+| [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -132,4 +134,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
