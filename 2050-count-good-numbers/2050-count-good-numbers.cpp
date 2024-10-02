@@ -7,7 +7,7 @@ public:
             return solve((x*x)%mod, n/2);
         }
         else{
-            return (x * solve((x*x)%mod, (n-1)/2))%mod;
+            return x * solve(x,(n-1))%mod;
         }
     }
     int countGoodNumbers(long long n) {
@@ -15,7 +15,6 @@ public:
         long long odd = n/2;
         long long evenPos = solve(5, even);
         long long oddPos = solve(4, odd);
-        long long ans = (evenPos*oddPos)%mod;
-        return ans;
+        return (evenPos * oddPos)%mod;
     }
 };
