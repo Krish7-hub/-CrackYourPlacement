@@ -19,6 +19,7 @@
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
+| [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
@@ -139,6 +141,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
