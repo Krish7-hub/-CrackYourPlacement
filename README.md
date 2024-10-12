@@ -65,6 +65,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
