@@ -1,19 +1,19 @@
 class Solution {
 public:
-   void find(vector<int>&nums, int i, vector<int>&arr, int size, vector<vector<int>>&ans){
-      if(i >= size){
-        ans.push_back(arr);
+   void find(vector<int>&nums, int index, vector<int>output, vector<vector<int>>&ans){
+      if(index >= nums.size()){
+        ans.push_back(output);
         return;
       }
-      arr.push_back(nums[i]);
-      find(nums, i+1, arr, size, ans);
-      arr.pop_back();
-      find(nums, i+1, arr, size, ans);
+      find(nums, index+1, output, ans);
+      output.push_back(nums[index]);
+      find(nums, index+1, output, ans);
    }
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>>ans;
-        vector<int>arr;
-        find(nums, 0, arr, nums.size(), ans);
+        vector<int>output;
+        int index = 0;
+        find(nums, index, output, ans);
         return ans;
     }
 };
