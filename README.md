@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -150,6 +151,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0060-permutation-sequence) |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Sorting
