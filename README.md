@@ -74,6 +74,7 @@
 | [0046-permutations](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
@@ -181,5 +182,6 @@
 | ------- |
 | [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
