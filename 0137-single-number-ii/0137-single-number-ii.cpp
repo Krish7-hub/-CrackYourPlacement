@@ -1,15 +1,15 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        map<int, int>mpp;
-        for(int i = 0; i < nums.size(); i++){
-            mpp[nums[i]]++;
-        }
-        int ans ;
-        for(auto it : mpp){
-            if(it.second == 1){
-                ans = it.first;
-                break;
+        
+        int ans = 0;
+        for(int i = 0; i < 32; i++){
+            int cnt = 0;
+            for(int j = 0; j < nums.size(); j++){
+                if(nums[j] & (1 << i)) cnt++;
+            }
+            if(cnt % 3 == 1){
+                ans = ans | (1 << i);
             }
         }
         return ans;
