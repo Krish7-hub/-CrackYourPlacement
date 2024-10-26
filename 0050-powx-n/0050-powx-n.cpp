@@ -1,13 +1,25 @@
 class Solution {
 public:
-    double findPow(double x, long n){
-        if(n == 0) return 1;
-        if(n < 0) return findPow(1/x, -n);
-        if(n % 2 == 0) return findPow(x*x, n/2);
-        return x*findPow(x*x, (n-1)/2);
+    double solve(double x, long n){
+        long m = n;
+        if(n < 0) {
+            n = -n;
+        }
+        double ans = 1;
+        while(n > 0){
+            if(n % 2 == 1){
+                ans = ans * x;
+                n = n - 1;
+            }
+            else{
+                n = n / 2;
+                x = x * x;
+            }
+        }
+        if(m < 0) return 1/ans;
+        else return ans;
     }
-
     double myPow(double x, int n) {
-        return findPow(x, long(n));
+       return solve(x, (long)n);
     }
 };
