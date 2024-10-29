@@ -35,6 +35,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -153,6 +154,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
