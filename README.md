@@ -114,6 +114,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -152,6 +154,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Recursion
