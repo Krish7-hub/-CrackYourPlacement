@@ -92,6 +92,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -173,6 +174,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 ## Recursion
 |  |
 | ------- |
@@ -222,4 +224,5 @@
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
