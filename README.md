@@ -85,6 +85,7 @@
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
+| [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Counting
 |  |
@@ -161,6 +163,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 ## Doubly-Linked List
 |  |
@@ -246,4 +249,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
