@@ -94,6 +94,7 @@
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -116,6 +117,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 ## Design
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 ## Linked List
 |  |
 | ------- |
