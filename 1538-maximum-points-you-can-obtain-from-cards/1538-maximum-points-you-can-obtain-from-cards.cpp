@@ -5,13 +5,12 @@ public:
         for(int i = 0; i < k; i++){
             lsum += cardPoints[i];
         }
-        int maxi = -1;
+        int maxi = lsum;
         for(int i = 1; i <= k; i++){
-            maxi = max(maxi, lsum + rsum);
             lsum = lsum - cardPoints[k-i];
             rsum = rsum + cardPoints[n-i];
+            maxi = max(maxi, lsum + rsum);
         }
-        maxi = max(maxi, lsum + rsum);
         return maxi;
 
     }
