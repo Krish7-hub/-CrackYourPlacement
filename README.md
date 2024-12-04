@@ -13,6 +13,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -102,6 +103,7 @@
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -129,6 +131,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -136,6 +139,7 @@
 ## Counting
 |  |
 | ------- |
+| [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Binary Search
