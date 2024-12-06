@@ -105,6 +105,7 @@
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+| [0890-lemonade-change](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 ## Matrix
 |  |
 | ------- |
