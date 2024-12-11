@@ -32,6 +32,7 @@
 | [0231-power-of-two](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
@@ -204,6 +206,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 | [0060-permutation-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 ## Sorting
 |  |
@@ -246,6 +250,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Memoization
 |  |
