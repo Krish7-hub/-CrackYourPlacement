@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
@@ -100,6 +101,7 @@
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
@@ -153,6 +155,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -244,6 +247,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 ## Simulation
@@ -314,4 +318,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0937-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
