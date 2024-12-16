@@ -43,6 +43,7 @@
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -109,6 +110,7 @@
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
