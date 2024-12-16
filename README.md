@@ -38,6 +38,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
