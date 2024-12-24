@@ -100,6 +100,7 @@
 | [0045-jump-game-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
@@ -256,6 +257,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
