@@ -81,6 +81,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 ## Trie
@@ -234,6 +235,7 @@
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
@@ -343,9 +345,11 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
