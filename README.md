@@ -85,6 +85,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
@@ -292,6 +293,7 @@
 | [0046-permutations](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
@@ -354,6 +356,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
@@ -364,6 +367,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
