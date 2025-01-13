@@ -42,6 +42,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -112,6 +113,7 @@
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -272,6 +274,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
