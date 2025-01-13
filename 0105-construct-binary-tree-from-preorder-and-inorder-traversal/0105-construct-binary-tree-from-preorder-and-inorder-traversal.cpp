@@ -11,16 +11,24 @@
  */
 class Solution {
 public:
-    int getIndex(vector<int>inorder, int rootElement){
+    // int getIndex(vector<int>inorder, int rootElement){
+    //     for(int i = 0; i < inorder.size(); i++){
+    //         if(inorder[i] == rootElement){
+    //             return i;
+    //         }
+    //     }
+    //     return -1;
+    // }
+    
+    void storeIndex(unordered_map<int, int>&mpp, vector<int>&inorder){
         for(int i = 0; i < inorder.size(); i++){
-            if(inorder[i] == rootElement){
-                return i;
-            }
+            int index = i;
+            int element = inorder[i];
+            mpp[element] = index;
         }
-        return -1;
     }
 
-    TreeNode* solve(vector<int>& preorder, vector<int>& inorder, int& preorderIndex, int inorderStartIndex,
+    TreeNode* solve(unordered_map<int, int>&mpp, vector<int>& preorder, vector<int>& inorder, int& preorderIndex, int inorderStartIndex,
      int inorderEndIndex, int& len){
 
         // Base Condition
@@ -36,13 +44,13 @@ public:
         preorderIndex++;
         TreeNode* root = new TreeNode(rootElement);
 
-        int index = getIndex(inorder, rootElement);
+        int index = mpp[rootElement];
 
         // Call for left Subtree 
-        root -> left = solve(preorder, inorder, preorderIndex, inorderStartIndex, index - 1, len);
+        root -> left = solve(mpp, preorder, inorder, preorderIndex, inorderStartIndex, index - 1, len);
 
         // Call for right Subtree
-        root -> right = solve(preorder, inorder, preorderIndex, index + 1, inorderEndIndex, len);
+        root -> right = solve(mpp, preorder, inorder, preorderIndex, index + 1, inorderEndIndex, len);
 
         return root;
 
@@ -53,7 +61,9 @@ public:
         int inorderStartIndex = 0;
         int inorderEndIndex = inorder.size() - 1;
         int preorderIndex = 0;
-        TreeNode* root = solve(preorder, inorder, preorderIndex, inorderStartIndex, inorderEndIndex, len); 
+        unordered_map<int, int>mpp;
+        storeIndex(mpp, inorder);
+        TreeNode* root = solve(mpp, preorder, inorder, preorderIndex, inorderStartIndex, inorderEndIndex, len); 
         return root;
     }
 };
