@@ -123,6 +123,7 @@
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
@@ -162,6 +163,7 @@
 | [0053-maximum-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
