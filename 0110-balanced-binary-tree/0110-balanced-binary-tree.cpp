@@ -34,6 +34,7 @@ public:
         int rh = getHeight(root -> right);
         int absval = abs(lh - rh);
         bool status = (absval <= 1);
+        if(!status) return false;
         
         bool leftst = isBalanced(root -> left);
         bool rightst = isBalanced(root -> right);
