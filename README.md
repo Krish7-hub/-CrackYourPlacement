@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -407,6 +410,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
 ## Union Find
