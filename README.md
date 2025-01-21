@@ -118,6 +118,7 @@
 | [0045-jump-game-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0057-insert-interval) |
@@ -298,6 +299,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -354,6 +356,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
