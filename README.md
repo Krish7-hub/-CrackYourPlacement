@@ -19,6 +19,7 @@
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
@@ -147,6 +148,7 @@
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
@@ -236,6 +238,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
