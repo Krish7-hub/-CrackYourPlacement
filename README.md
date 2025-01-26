@@ -98,6 +98,7 @@
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
@@ -271,6 +272,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
@@ -400,6 +402,7 @@
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
@@ -418,6 +421,7 @@
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
