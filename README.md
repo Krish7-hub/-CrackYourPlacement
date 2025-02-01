@@ -414,6 +414,7 @@
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +436,7 @@
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -447,4 +449,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
