@@ -110,6 +110,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Trie
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -444,6 +446,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -463,4 +466,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
