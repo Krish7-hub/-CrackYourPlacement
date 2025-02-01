@@ -412,6 +412,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
@@ -434,6 +435,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
@@ -452,5 +454,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
