@@ -11,22 +11,18 @@
  */
 class Solution {
 public:
-    void findinorder(TreeNode* root, vector<int>&inorder){
-        if(root == NULL) return;
-        findinorder(root -> left, inorder);
-        inorder.push_back(root -> val);
-        findinorder(root -> right, inorder);
+    bool isBST(TreeNode* root, long mini, long maxi){
+        if(root == NULL){
+            return true;
+        }
+        if((root -> val > mini) && (root -> val < maxi)){
+            bool leftpart = isBST(root -> left, mini, root -> val);
+            bool rightpart = isBST(root -> right, root -> val, maxi);
+            return leftpart && rightpart;
+        }
+        return false;
     }
     bool isValidBST(TreeNode* root) {
-
-        vector<int>inorder;
-        findinorder(root, inorder);
-        for(int i = 1; i < inorder.size(); i++){
-            if(inorder[i] <= inorder[i-1]){
-                return false;
-            }
-        }
-        return true;
-        
+        return isBST(root, LONG_MIN, LONG_MAX);
     }
 };
