@@ -64,6 +64,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
@@ -120,6 +121,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
