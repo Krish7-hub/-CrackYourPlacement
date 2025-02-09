@@ -20,11 +20,11 @@ public:
         while(!q.empty()){
             TreeNode* front = q.front();
             q.pop();
+            if(front -> left != NULL) q.push(front -> left);
+            if(front -> right != NULL) q.push(front -> right);
             TreeNode* temp = front -> left;
             front -> left = front -> right;
             front -> right = temp;
-            if(front -> left != NULL) q.push(front -> left);
-            if(front -> right != NULL) q.push(front -> right);
         }
         return root;
 
