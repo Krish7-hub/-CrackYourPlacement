@@ -184,6 +184,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -321,6 +322,7 @@
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
@@ -390,6 +392,7 @@
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
@@ -459,6 +462,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -491,6 +495,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -518,6 +523,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0783-search-in-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
