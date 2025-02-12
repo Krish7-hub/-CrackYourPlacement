@@ -11,24 +11,22 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>&preorder, int mini, int maxi, int& i){
+    TreeNode* solve(vector<int>&preorder, int maxi, int& i){
         if(i >= preorder.size()){
             return NULL;
         }
-        if(preorder[i] < mini || preorder[i] > maxi){
+        if(preorder[i] > maxi){
             return NULL;
         }
         TreeNode* node = new TreeNode(preorder[i++]);
-        node -> left = solve(preorder, mini, node -> val, i);
-        node -> right = solve(preorder, node -> val, maxi, i);
+        node -> left = solve(preorder,node -> val, i);
+        node -> right = solve(preorder, maxi, i);
         return node;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int mini = INT_MIN;
         int maxi = INT_MAX;
         int i = 0;
-        TreeNode* root = solve(preorder, mini, maxi, i);
-        return root;
-        
+        TreeNode* root = solve(preorder, maxi, i);
+        return root;   
     }
 };
