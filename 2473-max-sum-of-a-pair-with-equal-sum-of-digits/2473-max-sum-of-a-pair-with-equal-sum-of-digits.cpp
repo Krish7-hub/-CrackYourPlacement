@@ -9,18 +9,18 @@ public:
         return sum;
     }
     int maximumSum(vector<int>& nums) {
-        unordered_map<int, int>mpp;
+        vector<int>maxArr(82, 0);
         int maxSum = -1;
-        for(int ele : nums){
-            int sumDigit = getSumDigit(ele);
-            if(mpp.count(sumDigit)){
-                maxSum = max(maxSum, ele + mpp[sumDigit]);
-                if(mpp[sumDigit] < ele){
-                    mpp[sumDigit] = ele;
+        for(auto it : nums){
+            int sumDigit = getSumDigit(it);
+            if(maxArr[sumDigit] != 0){
+                maxSum = max(maxSum, it + maxArr[sumDigit]);
+                if(maxArr[sumDigit] < it){
+                    maxArr[sumDigit] = it;
                 }
             }
             else{
-                mpp[sumDigit] = ele;
+                maxArr[sumDigit] = it;
             }
         }
         return maxSum;
