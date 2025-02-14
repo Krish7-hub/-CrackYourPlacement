@@ -127,6 +127,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Trie
 |  |
@@ -413,6 +414,7 @@
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0890-lemonade-change) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -442,6 +444,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -477,6 +480,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -513,6 +517,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -544,6 +549,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
