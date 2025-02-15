@@ -17,9 +17,15 @@ public:
         }
         if(root -> val >= low && root -> val <= high){
             rangeSum += root -> val;
+            findSum(root -> left, low, high, rangeSum);
+            findSum(root -> right, low, high, rangeSum);
         }
-        findSum(root -> left, low, high, rangeSum);
-        findSum(root -> right, low, high, rangeSum);
+        else if(root -> val < low){
+            findSum(root -> right, low, high, rangeSum);
+        }
+        else if(root -> val > high){
+            findSum(root -> left, low, high, rangeSum);
+        }
     }
     int rangeSumBST(TreeNode* root, int low, int high) {
 
