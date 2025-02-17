@@ -124,6 +124,7 @@
 | [0386-lexicographical-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0975-range-sum-of-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -531,11 +532,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -559,4 +562,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
