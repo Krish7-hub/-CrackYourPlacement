@@ -1,29 +1,47 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& image, int sr, int sc, int& color, int& startcolor){
+    void bfs(vector<vector<int>>& image, vector<vector<int>>& vis, int sr,
+             int sc, int& color, int& startcolor) {
 
-        if(sr < 0 || sr >= image.size() || sc < 0 || sc >= image[0].size()){
-            return;
-        }
+        int m = image.size();
+        int n = image[0].size();
+        queue<pair<int, int>> q;
+        q.push({sr, sc});
 
-        if(image[sr][sc] != startcolor || image[sr][sc] == color){
-            return;
-        }
+        while (!q.empty()) {
 
-        if(image[sr][sc] != color && image[sr][sc] == startcolor){
-            image[sr][sc] = color;
-            dfs(image, sr - 1, sc, color, startcolor);
-            dfs(image, sr, sc - 1, color, startcolor);
-            dfs(image, sr, sc + 1, color, startcolor);
-            dfs(image, sr + 1, sc, color, startcolor);
-        }
-        else {
-            return;
+            int row = q.front().first;
+            int col = q.front().second;
+            vis[row][col] = color;
+            q.pop();
+            int top = row - 1;
+            int right = col + 1;
+            int bottom = row + 1;
+            int left = col - 1;
+            if(top >=0 && top < m && image[top][col] == startcolor && vis[top][col] != color){
+                q.push({top, col});
+                vis[top][col] = color;
+            }
+            if(right >=0 && right < n && image[row][right] == startcolor && vis[row][right] != color){
+                q.push({row, right});
+                vis[row][right] = color;
+            }
+            if(bottom >=0 && bottom < m && image[bottom][col] == startcolor && vis[bottom][col] != color){
+                q.push({bottom, col});
+                vis[bottom][col] = color;
+            }
+            if(left >=0 && left < n && image[row][left] == startcolor && vis[row][left] != color){
+                q.push({row, left});
+                vis[row][left] = color;
+            }
         }
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+
         int startcolor = image[sr][sc];
-        dfs(image, sr, sc, color, startcolor);
-        return image;
+        vector<vector<int>> vis = image;
+        bfs(image, vis, sr, sc, color, startcolor);
+        return vis;
+        
     }
 };
