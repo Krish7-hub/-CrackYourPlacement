@@ -1,48 +1,46 @@
 class Solution {
 private:
     int bfs(vector<vector<int>>&grid, vector<vector<int>>&vis, int& m, int& n){
-        queue<pair<int, int>>q;
+        queue<pair< pair<int, int>, int>>q;
+        int countFresh = 0;
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == 2){
-                    q.push({i, j});
+                    q.push({{i, j}, 0});
+                }
+                else if(grid[i][j] == 1){
+                    countFresh++;
                 }
             }
         }
-        int cnt = 0;
+        int tm = 0;
+        int foundfresh = 0;
         int drow[] = {-1, 0, 1, 0};
         int dcol[] = {0, 1, 0, -1};
         while(!q.empty()){
             int len = q.size();
-            bool isrotten = false;
             for(int i = 0; i < len; i++){
-                int row = q.front().first;
-                int col = q.front().second;
+                int row = q.front().first.first;
+                int col = q.front().first.second;
+                int t = q.front().second;
+                tm = max(tm, t);
                 q.pop();
                 vis[row][col] = 1;
                 for(int j = 0; j < 4; j++){
                     int rw = row + drow[j];
                     int cl = col + dcol[j];
                     if(rw >= 0 && rw < m && cl >= 0 && cl < n && grid[rw][cl] == 1 && vis[rw][cl] != 1){
-                        grid[rw][cl] = 2;
                         vis[rw][cl] = 1;
-                        q.push({rw, cl});
-                        isrotten = true;
+                        q.push({{rw, cl}, t+1});
+                        foundfresh++;
                     }
                 }
             }
-            if(isrotten){
-                cnt++;
-            }
         }
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] == 1){
-                    cnt = -1;
-                }
-            }
+        if(countFresh != foundfresh){
+            return -1;
         }
-        return cnt;
+        return tm;
     }
 public:
     int orangesRotting(vector<vector<int>>& grid) {
