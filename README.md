@@ -130,6 +130,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -195,6 +196,7 @@
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -431,6 +433,7 @@
 | [0130-surrounded-regions](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -545,12 +548,14 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
