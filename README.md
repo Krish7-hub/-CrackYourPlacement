@@ -13,6 +13,7 @@
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
@@ -74,6 +75,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0402-remove-k-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0402-remove-k-digits) |
@@ -544,6 +546,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0210-course-schedule-ii) |
