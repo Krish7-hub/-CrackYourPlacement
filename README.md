@@ -201,6 +201,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
@@ -438,6 +439,7 @@
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -556,6 +558,7 @@
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
