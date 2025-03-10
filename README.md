@@ -142,6 +142,7 @@
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Trie
@@ -572,6 +573,7 @@
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
@@ -580,6 +582,7 @@
 | [0130-surrounded-regions](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -611,6 +614,7 @@
 | [0210-course-schedule-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
 | ------- |
