@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
@@ -85,6 +86,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -136,6 +138,7 @@
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0975-range-sum-of-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
@@ -195,6 +198,7 @@
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
@@ -379,6 +383,7 @@
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Simulation
@@ -571,6 +576,7 @@
 | [0226-invert-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1036-rotting-oranges) |
@@ -584,6 +590,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
