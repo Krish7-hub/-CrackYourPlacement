@@ -26,6 +26,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
@@ -143,6 +144,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0854-making-a-large-island](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0975-range-sum-of-bst](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1285-balance-a-binary-search-tree) |
@@ -596,6 +598,7 @@
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0854-making-a-large-island](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
@@ -629,6 +632,7 @@
 | [0210-course-schedule-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Topological Sort
 |  |
