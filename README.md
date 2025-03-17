@@ -34,6 +34,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
@@ -229,6 +230,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -278,6 +280,7 @@
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -425,6 +428,7 @@
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
 |  |
