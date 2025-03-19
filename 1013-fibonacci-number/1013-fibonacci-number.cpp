@@ -38,10 +38,29 @@ public:
         return dp[n];
     }
 
+    int solveUsingTabOptimized(int n){
+        // This is tabulation method(bottom to up approach.)
+        int prev = 0;
+        if(n == 0){
+            return 0;
+        }
+        int curr = 1;
+        if(n == 1){
+            return 1;
+        }
+        int ans;
+        for(int i = 2; i <= n; i++){
+            ans = prev + curr;
+            prev = curr;
+            curr = ans;
+        }
+        return ans;
+    }
+
     int fib(int n) {
         // Create dp array.
         // vector<int>dp(n+1, -1);
         // return solveUsingMem(n, dp);
-        return solveUsingTab(n);
+        return solveUsingTabOptimized(n);
     }
 };
