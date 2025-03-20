@@ -194,6 +194,7 @@
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -251,6 +252,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
