@@ -650,5 +650,6 @@
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0182-duplicate-emails) |
 | [0627-swap-salary](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
