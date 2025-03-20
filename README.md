@@ -651,6 +651,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0182-duplicate-emails) |
+| [0596-classes-more-than-5-students](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0596-classes-more-than-5-students) |
 | [0620-not-boring-movies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
