@@ -47,6 +47,7 @@
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0231-power-of-two) |
@@ -248,6 +249,7 @@
 | [0045-jump-game-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -408,6 +410,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 ## Backtracking
 |  |
