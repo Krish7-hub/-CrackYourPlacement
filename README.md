@@ -647,4 +647,8 @@
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0803-cheapest-flights-within-k-stops) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
