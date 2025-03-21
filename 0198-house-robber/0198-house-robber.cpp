@@ -14,7 +14,7 @@ public:
         dp[ind] = max(include, exclude);
         return dp[ind];
     }
-    
+
     // Using Tabulation Methods
     int solveUsingTab(vector<int>& nums){
         // Create dp array.
@@ -25,7 +25,7 @@ public:
         // step 2
         dp[n-1] = nums[n-1];
 
-        // step  3
+        // step 3
         for(int index = n - 2; index >= 0; index--){
             int tempAns = 0;
             if(index + 2 < n){
@@ -38,12 +38,39 @@ public:
         return dp[0];
     }
 
+    // Space Optimization 
+    int solveUsingTabulationSO(vector<int>&nums){
+        int n = nums.size();
+        int prev = nums[n-1];
+        int next = 0;
+        int curr = 0;
+        for(int index = n - 2; index >= 0; index--){
+            // int tempAns = 0;
+            // if(index + 2 < n){
+            //     tempAns = next;
+            // }
+            int include = nums[index] + next;
+            int exclude = 0 + prev;
+            curr = max(include, exclude);
+            // bhul jate hai
+            next = prev;
+            prev = curr;
+        }
+        return prev;
+    }
+
     int rob(vector<int>& nums) {
         // int len = nums.size();
         // int ind = 0;
-        // Step 1 Create DP array.
+        // // Step 1 Create DP array.
         // vector<int>dp(len+1, -1);
-        // return solveUsingMem(nums, dp, ind, len);
-        return solveUsingTab(nums);
+        // int ans =  solveUsingMem(nums, dp, ind, len);
+        // for(int i = 0; i < len; i++){
+        //     cout << dp[i] << " ";
+        // }
+        // cout << endl;
+        // return ans;
+        // return solveUsingTab(nums);
+        return solveUsingTabulationSO(nums);
     }
 };
