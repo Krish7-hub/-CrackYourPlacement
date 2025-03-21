@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // Using Recursion + Memoization.
     int solveUsingMem(int n, vector<int>&dp){
         // Base Case
         if(n == 0 || n == 1){
@@ -14,8 +15,25 @@ public:
         dp[n] = ans;
         return dp[n];
     }
-    int climbStairs(int n) {
+    // Using Tabulation Method
+    int solveUsingTab(int n){
         vector<int>dp(n+1, -1);
-        return solveUsingMem(n, dp);
+        dp[0] = 1;
+        if(n == 0){
+            return dp[0];
+        }
+        dp[1] = 1;
+        if(n == 1){
+            return dp[1];
+        }
+        for(int i = 2; i <= n; i++){
+            dp[i] = dp[i-1] + dp[i-2];
+        }
+        return dp[n];
+    }
+    int climbStairs(int n) {
+        // vector<int>dp(n+1, -1);
+        // return solveUsingMem(n, dp);
+        return solveUsingTab(n);
     }
 };
