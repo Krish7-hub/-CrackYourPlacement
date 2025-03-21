@@ -31,9 +31,24 @@ public:
         }
         return dp[n];
     }
+    // Space Optimization
+    int solveUsingTabSO(int n){
+        int prev = 1;
+        int curr = 1;
+        if(n == 0 || n == 1){
+            return 1;
+        }
+        int ans = 0;
+        for(int i = 2; i <= n; i++){
+            ans = prev + curr;
+            prev = curr;
+            curr = ans;
+        }
+        return ans;
+    }
     int climbStairs(int n) {
         // vector<int>dp(n+1, -1);
         // return solveUsingMem(n, dp);
-        return solveUsingTab(n);
+        return solveUsingTabSO(n);
     }
 };
