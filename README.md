@@ -243,6 +243,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3429-special-array-i) |
+| [3430-count-days-without-meetings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -399,6 +400,7 @@
 | [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [1256-rank-transform-of-an-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3430-count-days-without-meetings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Simulation
 |  |
 | ------- |
