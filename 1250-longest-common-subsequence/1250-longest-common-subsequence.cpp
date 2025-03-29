@@ -63,6 +63,29 @@ public:
         return dp[0][0];
     }
 
+    int solveUsingTabulationSO(string& text1, string& text2){
+        // vector<vector<int>>dp(n+1, vector<int>(m+1, 0));
+        vector<int>curr(text1.size()+1, 0);
+        vector<int>next(text1.size()+1, 0);
+
+        for(int j = text2.size()-1; j >= 0; j--){
+            for(int i = text1.size()-1; i >= 0; i--){
+                int ans = 0;
+                if(text1[i] == text2[j]){
+                    ans = 1 + next[i+1];
+                }
+                else{
+                    ans = max(next[i], curr[i+1]);
+                }
+                // Step -> 2 Store that computed value in dp.
+                curr[i] = ans;
+            }
+            // Shifting
+            next = curr;
+        }
+        return next[0];
+    }
+
     int longestCommonSubsequence(string text1, string text2) {
         int n = text1.size();
         int m = text2.size();
@@ -72,7 +95,8 @@ public:
         int j = 0;
         // vector<vector<int>>dp(text1.size(), vector<int>(text2.size(), -1));
         // int ans = solveUsingMemoization(text1, text2, i, j, dp);
-        int ans = solveUsingTabulation(text1, text2, n, m);
+        // int ans = solveUsingTabulation(text1, text2, n, m);
+        int ans = solveUsingTabulationSO(text1, text2);
         return ans;
     }
 };
