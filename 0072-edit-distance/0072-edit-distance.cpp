@@ -72,6 +72,34 @@ public:
         }
         return dp[0][0];
     }
+    int solveUsingTabulationSO(string& word1, string& word2){
+        // vector<vector<int>>dp(word1.length()+1, vector<int>(word2.length()+1, -1));
+        vector<int>curr(word1.length()+1, 0);
+        vector<int>next(word1.length()+1, 0);
+
+        for(int row = 0; row <= word1.length(); row++){
+            next[row] =  word1.length()-row;
+        }
+        for(int j = word2.length()-1; j >= 0; j--){
+            curr[word1.length()] = word2.length()-j;
+            for(int i = word1.length()-1; i >= 0; i--){
+                int ans = 0;
+                if(word1[i] == word2[j]){
+                    ans = 0 + next[i+1];
+                }
+                else{
+                    int replace = 1 + next[i+1];
+                    int insert = 1 + next[i];
+                    int remove = 1 + curr[i+1];
+                    ans = min(replace, min(insert, remove));
+                }
+                curr[i] = ans;
+            }
+            // Shifting
+            next = curr;
+        }
+        return next[0];
+    }
     int minDistance(string word1, string word2) {
 
         int i = 0; 
@@ -79,7 +107,8 @@ public:
         // int ans = solveUsingRecursion(word1, word2, i, j);
         // vector<vector<int>>dp(word1.size()+1, vector<int>(word2.size()+1, -1));
         // int ans = solveUsingMem(word1, word2, i, j, dp);
-        int ans = solveUsingTabulation(word1, word2);
+        // int ans = solveUsingTabulation(word1, word2);
+        int ans = solveUsingTabulationSO(word1, word2);
         return ans;
 
     }
