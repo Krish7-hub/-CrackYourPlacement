@@ -81,6 +81,7 @@
 | [0020-valid-parentheses](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
@@ -254,6 +255,7 @@
 | [0053-maximum-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0124-binary-tree-maximum-path-sum) |
