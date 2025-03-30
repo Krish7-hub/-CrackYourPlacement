@@ -53,6 +53,28 @@ public:
         }
         return dp[0][0];
     }
+    // Space Optimizaton.
+    int solveUsingTabulationSO(string& s, string& s2){
+        // Step -> 1 Create 2 vector array.
+        vector<int>curr(s.size()+1, 0);
+        vector<int>next(s.size()+1, 0);
+
+        for(int j = s2.size()-1; j >= 0; j--){
+            for(int i = s.size()-1; i >= 0; i--){
+                int ans = 0;
+                if(s[i] == s2[j]){
+                    ans =  1 + next[i+1];
+                }
+                else{
+                    ans =  max(next[i], curr[i+1]);
+                }
+                curr[i] = ans;
+            }
+            // Shifting
+            next = curr;
+        }
+        return curr[0];
+    }
     int longestPalindromeSubseq(string s) {
         string s2 = s;
         reverse(s2.begin(), s2.end());
@@ -61,7 +83,8 @@ public:
         // vector<vector<int>>dp(s.size()+1, vector<int>(s2.size()+1, -1));
         // int ans = solveUsingMem(s, s2, i, j, dp);
         // int ans = solveUsingRecursion(s, s2, i, j);
-        int ans = solveUsingTabulation(s, s2);
+        // int ans = solveUsingTabulation(s, s2);
+        int ans = solveUsingTabulationSO(s, s2);
         return ans;
     }
 };
