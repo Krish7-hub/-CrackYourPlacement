@@ -50,6 +50,28 @@ public:
         }
         return dp[0][0];
     }
+    // Space Optimization
+    int solveUsingTabulationSO(vector<int>&nums){
+        int n = nums.size();
+        vector<int>currRow(n+1, 0);
+        vector<int>nextRow(n+1, 0);
+
+        for(int curr_index = nums.size()-1; curr_index >= 0; curr_index--){
+            for(int prev_index = curr_index-1; prev_index >= -1; prev_index--){
+                int include = 0;
+                if(prev_index == -1 || nums[curr_index] > nums[prev_index]){
+                    include = 1 + nextRow[curr_index+1];
+                }
+                int exclude = nextRow[prev_index+1];
+                int ans = max(include, exclude);
+                currRow[prev_index+1] = ans;
+            }
+            // Shifing
+            nextRow = currRow;
+        }
+        return currRow[0];
+    }
+
     int lengthOfLIS(vector<int>& nums) {
         int curr = 0;
         int prev = -1;
@@ -57,7 +79,8 @@ public:
         int n = nums.size();
         // vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
         // int ans = solveUsingMem(curr, prev, nums, dp);
-        int ans = solveUsingTabulation(nums);
+        // int ans = solveUsingTabulation(nums);
+        int ans = solveUsingTabulationSO(nums);
         return ans;
     }
 };
