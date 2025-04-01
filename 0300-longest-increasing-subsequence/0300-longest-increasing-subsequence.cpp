@@ -71,6 +71,23 @@ public:
         }
         return currRow[0];
     }
+    // Solve Using Binary Search Algorithm
+    int solveUsingBinarySearch(vector<int>&nums){
+        // ans vector
+        vector<int>ans;
+        ans.push_back(nums[0]);
+        for(int i = 1; i < nums.size(); i++){
+            if(nums[i] > ans.back()){
+                ans.push_back(nums[i]);
+            }
+            else{
+                int index = lower_bound(ans.begin(), ans.end(), nums[i]) - ans.begin();
+                // replace
+                ans[index] = nums[i];
+            }
+        }
+        return ans.size();
+    }
 
     int lengthOfLIS(vector<int>& nums) {
         int curr = 0;
@@ -80,7 +97,8 @@ public:
         // vector<vector<int>>dp(n+1, vector<int>(n+1, -1));
         // int ans = solveUsingMem(curr, prev, nums, dp);
         // int ans = solveUsingTabulation(nums);
-        int ans = solveUsingTabulationSO(nums);
+        // int ans = solveUsingTabulationSO(nums);
+        int ans = solveUsingBinarySearch(nums);
         return ans;
     }
 };
