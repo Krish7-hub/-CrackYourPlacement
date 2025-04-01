@@ -237,6 +237,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
+| [2262-solving-questions-with-brainpower](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
@@ -274,6 +275,7 @@
 | [1250-longest-common-subsequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2262-solving-questions-with-brainpower](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
