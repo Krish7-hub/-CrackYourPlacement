@@ -56,6 +56,7 @@
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 ## Two Pointers
@@ -239,6 +240,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -446,6 +448,7 @@
 | [0090-subsets-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Monotonic Stack
@@ -690,4 +694,12 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
