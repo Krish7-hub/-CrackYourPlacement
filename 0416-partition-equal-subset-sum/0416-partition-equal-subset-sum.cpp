@@ -28,6 +28,24 @@ public:
         bool exc =  solveUsingMem(currSum, target, ind+1, nums, dp);
         return dp[ind][currSum] = (inc || exc);
     }
+    bool solveUsingTabulation(vector<int>& nums, int& target){
+        int n = nums.size();
+        vector<vector<int>>dp(n+1, vector<int>(target+1, 0));
+        for(int row = 0; row <= n; row++){
+            dp[row][target] = 1;
+        }
+        for(int ind = n-1; ind >= 0; ind--){
+            for(int s = target; s >= 0; s--){
+                bool inc = 0;
+                if(s + nums[ind] <= target){
+                    inc =  dp[ind+1][s + nums[ind]];
+                }
+                bool exc =  dp[ind+1][s];
+                dp[ind][s] = (inc || exc);
+            }
+        }
+        return dp[0][0];
+    }
     bool canPartition(vector<int>& nums) {
         int sum = 0;
         for(int i = 0; i < nums.size(); i++){
@@ -38,10 +56,11 @@ public:
         }
         int ind = 0;
         int target = sum / 2;
-        int currSum = 0;
+        // int currSum = 0;
         // bool ans = solve(currSum, target, ind, nums);
-        vector<vector<int>>dp(nums.size(), vector<int>(target, -1));
-        bool ans = solveUsingMem(currSum, target, ind, nums, dp);
+        // vector<vector<int>>dp(nums.size(), vector<int>(target, -1));
+        // bool ans = solveUsingMem(currSum, target, ind, nums, dp);
+        bool ans = solveUsingTabulation(nums, target);
         return ans;
     }
 };
