@@ -58,7 +58,7 @@ public:
     int solveUsingTabulationSO(int n, int k, int target){
         vector<int>curr(target+1, 0);
         vector<int>prev(target+1, 0);
-        curr[0] = 1;
+        // curr[0] = 1;
         prev[0] = 1;
         for(int i = 1; i <= n; i++){
             for(int j = 0; j <= target; j++){
