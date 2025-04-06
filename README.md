@@ -287,6 +287,7 @@
 | [1013-fibonacci-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1250-longest-common-subsequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2262-solving-questions-with-brainpower](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
