@@ -36,13 +36,28 @@ public:
         }
         return min(dp[n-1], dp[n-2]);
     }
+
+    int solveUsingTabulationSO(vector<int>&cost){
+        int n = cost.size();
+        // vector<int>dp(n, 0);
+        int prev = cost[1];
+        int prev2 = cost[0];
+        int curr = 0;
+        for(int i = 2; i < n; i++){
+            curr = cost[i] + min(prev, prev2);
+            prev2 = prev;
+            prev = curr;
+        }
+        return min(prev, prev2);
+    }
+
     int minCostClimbingStairs(vector<int>& cost) {
         // int stair = cost.size();
         // vector<int>dp(stair, -1);
         // int ans = min(solveUsingRecursion(stair - 1, cost), solveUsingRecursion(stair-2, cost));
         // Step -> 1
         // int ans = min(solveUsingMem(stair - 1, cost, dp), solveUsingMem(stair-2, cost, dp));
-        int ans = solveUsingTabulation(cost);
+        int ans = solveUsingTabulationSO(cost);
         return ans;
     }
 };
