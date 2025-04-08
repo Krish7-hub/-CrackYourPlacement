@@ -1,18 +1,17 @@
 class Solution {
 public:
     int minimumOperations(vector<int>& nums) {
-        int n = nums.size();
-        map<int, int>mpp;
+        vector<int>arr(101, 0);
         int opr = 0;
-        for(int i = n-1; i >= 0; i--){
-            if(mpp.find(nums[i]) != mpp.end()){
+        for(int i = nums.size()-1; i >= 0; i--){
+            if(arr[nums[i]]){
                 opr = (i+3)/3;
-                break;
+                return opr;
             }
             else{
-                mpp[nums[i]]++;
+                arr[nums[i]] = 1;
             }
         }
-        return opr;
+        return 0;
     }
 };
