@@ -1,77 +1,51 @@
 class Solution {
 public:
-    int solveUsingRecursion(vector<int>& coins, int amount){
+    int solveUsingRecursion(int ind, vector<int>&coins, int target){
         // Base Case
-        if(amount == 0){
+        if(target == 0){
             return 0;
         }
-        if(amount < 0){
+        if(target < 0){
             return INT_MAX;
         }
-        int mini = INT_MAX;
+        // Processing
+        int ans = INT_MAX;
         for(int i = 0; i < coins.size(); i++){
-            int recursionAns = solveUsingRecursion(coins, amount - coins[i]);
+            int recursionAns = solveUsingRecursion(i+1, coins, target - coins[i]);
             if(recursionAns != INT_MAX){
-                mini = 1 + min(mini, recursionAns);
+                ans = 1 + min(ans, recursionAns);
             }
         }
-        return mini;
+        return ans;
     }
-    // Recursion + Memoization.
-    int solveUsingMem(vector<int>& coins, int amount, vector<int>&dp){
+    int solveUsingMem(vector<int>&coins, int target, vector<int>&dp){
         // Base Case
-        if(amount == 0){
+        if(target == 0){
             return 0;
         }
-        if(dp[amount] != -1){
-            return dp[amount];
+        if(dp[target] != -1){
+            return dp[target];
         }
+        // Processing
         int mini = INT_MAX;
         for(int i = 0; i < coins.size(); i++){
-            if(amount - coins[i] >= 0){
-                int recursionAns = solveUsingMem(coins, amount - coins[i], dp);
+            if(target - coins[i] >= 0){
+                int recursionAns = solveUsingMem(coins, target - coins[i], dp);
                 if(recursionAns != INT_MAX){
                     int ans = 1 + recursionAns;
-                    mini = min(mini, ans);
+                    mini = min(ans, mini);
                 }
             }
         }
-        // step - 2.
-        dp[amount] = mini;
-        return dp[amount];
-    }
-    int solveUsingTab(vector<int>& coins, int amount){
-        // Step 1 
-        int n = amount;
-        vector<int>dp(n + 1, INT_MAX);
-        // analyze base case
-        dp[0] = 0;
-        for(int val = 1; val <= amount; val++){
-            int mini = INT_MAX;
-            for(int i = 0; i < coins.size(); i++){
-                if(val - coins[i] >= 0){
-                    int recursionAns = dp[val - coins[i] ];
-                    if(recursionAns != INT_MAX){
-                        int ans = 1 + recursionAns;
-                        mini = min(mini, ans);
-                    }
-                }
-            }
-            dp[val] = mini;
-        }
-        return dp[amount];
+        dp[target] = mini;
+        return dp[target];
     }
     int coinChange(vector<int>& coins, int amount) {
-        // int ans = solveUsingRecursion(coins, amount);
-        // step 1
-        // vector<int>dp(amount + 1, -1);
-        // int ans1 = solveUsingMem(coins, amount, dp);
-        int ans2 = solveUsingTab(coins, amount);
-        if(ans2 == INT_MAX){
-            return -1;
-        }
-        else{
-            return ans2;
-        }
+        int n = coins.size();
+        vector<int>dp(amount+1, -1);
+        // int ans = solveUsingRecursion(ind, coins, amount);
+        int ans = solveUsingMem(coins, amount, dp);
+        if(ans != INT_MAX)  return ans; 
+        return -1;
     }
 };
