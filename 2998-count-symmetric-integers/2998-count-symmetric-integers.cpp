@@ -11,9 +11,7 @@ public:
               int len = str.size();
               for(int j = 0; j < len/2; j++){
                   sum1 += str[j];
-              }
-              for(int j = len/2; j < len; j++){
-                sum2 += str[j];
+                  sum2 += str[len - j - 1];
               }
               if(sum1 == sum2){
                 count++;
