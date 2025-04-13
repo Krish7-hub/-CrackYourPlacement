@@ -17,7 +17,7 @@ public:
     int solveUsingTabulation(vector<int>&nums){
         int n = nums.size();
         vector<int>arr1,arr2;
-        vector<int>dp1(n+2, 0), dp2(n+2,0);
+        vector<int>dp1(n+1, 0), dp2(n+1,0);
         for(int i = 0; i < nums.size(); i++){
             if(i != n-1){
                 arr1.push_back(nums[i]);
