@@ -44,10 +44,28 @@ public:
         }
         return dp[0][0];
     }
+    int solveTabSO(int m, int n){
+        vector<int>curr(n+1, 0);
+        vector<int>next(n+1, 0); 
+        for(int i = m-1; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                if(i == m-1 && j == n-1){
+                    curr[j] = 1;
+                }
+                else{
+                    int downMove =  next[j];
+                    int rightMove = curr[j+1];
+                    curr[j] = downMove + rightMove;
+                }
+            }
+            next = curr;
+        }
+        return next[0];
+    }
     int uniquePaths(int m, int n) {
         // return solve(0, 0, m, n);
         // vector<vector<int>>dp(m, vector<int>(n, -1));
         // return solveMem(0, 0, m, n, dp);
-        return solveTab(m, n);
+        return solveTabSO(m, n);
     }
 };
