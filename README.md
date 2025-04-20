@@ -49,6 +49,7 @@
 | [0029-divide-two-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
@@ -273,6 +274,7 @@
 | [0045-jump-game-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0085-maximal-rectangle) |
@@ -717,6 +719,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
