@@ -38,6 +38,29 @@ public:
 
         return *min_element(dp[0].begin(), dp[0].end());
     }
+    int solveTabulationSO(vector<vector<int>>&matrix){ 
+
+        int n = matrix.size();
+        // vector<vector<int>>dp(n, vector<int>(n, 0));
+        vector<int>next(n, 0);
+        vector<int>curr(n, 0);
+        for(int i = 0; i < n; i++){
+            next[i] = matrix[n-1][i];
+        }
+
+        for(int i = n-2; i >= 0; i--){
+            for(int j = n-1; j >= 0; j--){
+                int leftdiag = 100000, down = 100000, rightdiag = 100000;
+                if(j > 0) leftdiag = matrix[i][j] + next[j-1];
+                down = matrix[i][j] + next[j];
+                if(j < (n-1)) rightdiag = matrix[i][j] + next[j+1];
+                curr[j] =  min(leftdiag, min(down, rightdiag));
+            }
+            next = curr;
+        }
+
+        return *min_element(next.begin(), next.end());
+    }
 
 
     int minFallingPathSum(vector<vector<int>>& matrix) {
@@ -48,6 +71,6 @@ public:
         //     int val = solve(0, j, n, matrix, dp);
         //     ans = min(ans, val);
         // }
-        return solveTabulation(matrix);
+        return solveTabulationSO(matrix);
     }
 };
