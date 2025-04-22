@@ -41,6 +41,28 @@ public:
         }
         return dp[0][0];
     }
+    int solveTabSO(vector<vector<int>>& triangle){
+
+        int m = triangle.size();
+        int n = triangle[m-1].size();
+
+        vector<int>next(n, 0);
+        vector<int>curr(n, 0);
+        
+        for(int i = 0; i < n; i++){
+            next[i] = triangle[m-1][i];
+        }
+
+        for(int i = m-2; i >= 0; i--){
+            for(int j = 0; j < triangle[i].size(); j++){
+                int same = triangle[i][j] + next[j];
+                int another = triangle[i][j] + next[j+1];
+                curr[j] = min(same, another);
+            }
+            next = curr;
+        }
+        return next[0];
+    }
     int minimumTotal(vector<vector<int>>& triangle) {
         int m = triangle.size();
         int n = triangle[m-1].size();
