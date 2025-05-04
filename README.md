@@ -15,6 +15,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
@@ -349,6 +350,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
@@ -384,6 +386,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0146-lru-cache](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 ## Queue
@@ -397,6 +400,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 ## Stack
 |  |
