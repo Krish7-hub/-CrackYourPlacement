@@ -47,11 +47,33 @@ public:
         }
         return dp[n-1][amount];
     }
+    int solveUsingTabulationSO(int amount, vector<int>& coins){
+        int n = coins.size();
+        // vector<vector<unsigned long long>>dp(n, vector< unsigned long long>(amount+1, 0));
+        vector<unsigned long long>prev(amount+1 , 0);
+        vector<unsigned long long>cur(amount+1, 0);
+        for(int i = 0; i <= amount; i++){
+            prev[i] = (i % coins[0] == 0);
+        }
+        
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j <= amount; j++){
+                unsigned long long include = 0;
+                if(coins[i] <= j){
+                    include = cur[j - coins[i]];
+                }
+                unsigned long long exclude = prev[j];
+                cur[j] = include + exclude;
+            }
+            prev = cur;
+        }
+        return prev[amount];
+    }
     int change(int amount, vector<int>& coins) {
 
         int n = coins.size()-1;
         vector<vector<int>>dp(amount+1, vector<int>(n+1, -1));
-        int ans = solveUsingTabulation(amount, coins);
+        int ans = solveUsingTabulationSO(amount, coins);
         return ans;
         
     }
