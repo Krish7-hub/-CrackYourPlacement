@@ -27,11 +27,31 @@ public:
         dp[amount][n] = include + exclude;
         return dp[amount][n];
     }
+    int solveUsingTabulation(int amount, vector<int>& coins){
+        int n = coins.size();
+        vector<vector<unsigned long long>>dp(n, vector< unsigned long long>(amount+1, 0));
+
+        for(int i = 0; i <= amount; i++){
+            dp[0][i] = (i % coins[0] == 0);
+        }
+        
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j <= amount; j++){
+                unsigned long long include = 0;
+                if(coins[i] <= j){
+                    include = dp[i][j - coins[i]];
+                }
+                unsigned long long exclude = dp[i-1][j];
+                dp[i][j] = include + exclude;
+            }
+        }
+        return dp[n-1][amount];
+    }
     int change(int amount, vector<int>& coins) {
 
         int n = coins.size()-1;
         vector<vector<int>>dp(amount+1, vector<int>(n+1, -1));
-        int ans = solveUsingMem(amount, coins, n, dp);
+        int ans = solveUsingTabulation(amount, coins);
         return ans;
         
     }
