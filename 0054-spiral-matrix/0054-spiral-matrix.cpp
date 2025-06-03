@@ -5,44 +5,44 @@ public:
         int m = matrix.size();
         int n = matrix[0].size();
 
-        int totalNumber = m * n;
+        int total = m * n;
         int count = 0;
+
+        int firstRow = 0;
+        int lastRow = m - 1;
+        int firstCol = 0;
+        int lastCol = n - 1;
 
         vector<int>ans;
 
-        int startRow = 0;
-        int endRow = m - 1;
-        int startCol = 0;
-        int endCol = n - 1;
+        while(count < total){
 
-        while(count < totalNumber){
-
-            for(int i = startCol; i <= endCol && count < totalNumber; i++){
-                ans.push_back(matrix[startRow][i]);
-                 count++;
-            }
-            startRow++;
-
-            for(int i = startRow; i <= endRow && count < totalNumber; i++){
-                ans.push_back(matrix[i][endCol]);
-                 count++;
-            }
-            endCol--;
-
-            for(int i = endCol; i >= startCol && count < totalNumber; i--){
-                ans.push_back(matrix[endRow][i]);
-                 count++;
-            }
-            endRow--;
-
-            for(int i = endRow; i >= startRow && count < totalNumber; i--){
-                ans.push_back(matrix[i][startCol]);
+            for(int i = firstRow; i <= lastCol && count < total; i++){
+                ans.push_back(matrix[firstRow][i]);
                 count++;
             }
-            startCol++;
+            firstRow++;
+
+            for(int i = firstRow; i <= lastRow && count < total; i++){
+                ans.push_back(matrix[i][lastCol]);
+                count++;
+            }
+            lastCol--;
+
+            for(int i = lastCol; i >= firstCol && count < total; i--){
+                ans.push_back(matrix[lastRow][i]);
+                count++;
+            }
+            lastRow--;
+
+            for(int i = lastRow; i >= firstRow && count < total; i--){
+                ans.push_back(matrix[i][firstCol]);
+                count++;
+            }
+            firstCol++;
         }
 
         return ans;
-        
+
     }
 };
