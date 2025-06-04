@@ -11,10 +11,7 @@ public:
             if(sum < 0){
                 sum = 0;
             }
-        }
-        if(ans == INT_MIN){
-            return -1;
-        }        
+        }       
         return ans;
     }
 };
