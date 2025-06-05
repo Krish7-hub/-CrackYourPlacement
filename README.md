@@ -73,6 +73,7 @@
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -211,6 +212,7 @@
 | [0135-candy](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0198-house-robber) |
@@ -349,6 +351,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
