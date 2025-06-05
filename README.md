@@ -67,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0031-next-permutation) |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0039-combination-sum) |
@@ -525,6 +527,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0135-candy) |
