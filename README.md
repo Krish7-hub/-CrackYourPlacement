@@ -18,6 +18,7 @@
 | [0146-lru-cache](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -221,6 +222,7 @@
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0283-move-zeroes) |
@@ -343,6 +345,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1034-subarrays-with-k-different-integers) |
 | [1364-tuple-with-same-product](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -463,6 +466,7 @@
 | [0056-merge-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0455-assign-cookies) |
