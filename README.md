@@ -248,6 +248,7 @@
 | [0733-flood-fill](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0890-lemonade-change) |
@@ -369,6 +370,7 @@
 | [0493-reverse-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
