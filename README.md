@@ -245,6 +245,7 @@
 | [0496-next-greater-element-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0518-coin-change-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
@@ -376,6 +377,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0792-binary-search) |
