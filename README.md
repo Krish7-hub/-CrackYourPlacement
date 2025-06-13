@@ -258,6 +258,7 @@
 | [0854-making-a-large-island](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0890-lemonade-change) |
+| [0907-koko-eating-bananas](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0967-minimum-falling-path-sum) |
@@ -383,6 +384,7 @@
 | [0729-my-calendar-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
