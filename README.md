@@ -275,6 +275,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1370-count-number-of-nice-subarrays) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -386,6 +387,7 @@
 | [0792-binary-search](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Design
