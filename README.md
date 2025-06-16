@@ -289,6 +289,7 @@
 | [1927-maximum-ascending-subarray-sum](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
