@@ -77,6 +77,7 @@
 | [0042-trapping-rain-water](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0202-happy-number) |
@@ -98,6 +99,7 @@
 | [0058-length-of-last-word](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
