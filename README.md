@@ -298,6 +298,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2737-row-with-maximum-ones](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -604,6 +605,7 @@
 | [1073-number-of-enclaves](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/1753-path-with-minimum-effort) |
+| [2737-row-with-maximum-ones](https://github.com/Krish7-hub/-CrackYourPlacement/tree/master/2737-row-with-maximum-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
